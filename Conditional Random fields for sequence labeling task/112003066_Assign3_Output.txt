@@ -1,0 +1,30 @@
+John	NNP
+loves	VBZ
+to	TO
+read	VB
+books	NNS
+.	.
+
+She	PRP
+is	VBZ
+playing	VBG
+soccer	NN
+in	IN
+the	DT
+park	NN
+.	.
+
+The	DT
+dog	NN
+barked	VBD
+loudly	RB
+.	.
+
+Computers	NNS
+are	VBP
+becoming	VBG
+smarter	NN
+every	DT
+day	NN
+.	.
+

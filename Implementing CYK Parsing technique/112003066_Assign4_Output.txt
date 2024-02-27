@@ -1,0 +1,13 @@
+The sentence IS accepted in the language
+Number of possible trees: 2
+
+Probabilities:
+S Probability: 0.000504
+S Probability: 0.000378
+
+                                         ['S', 'S']
+                                  []     ['VP', 'VP']
+                          ['S']   []     ['NP']
+             []           ['VP']  []     ['PP']
+['NP']       ['NP', 'V']  ['NP']  ['P']  ['NP']
+astronomers  saw          stars   with   telescope

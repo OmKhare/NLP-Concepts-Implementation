@@ -1,0 +1,10 @@
+Dependencies:
+John <--nsubj-- saw
+saw <--ROOT-- saw
+Mary <--dobj-- saw
+
+Transitions:
+SHIFT
+LEFT-ARC
+SHIFT
+RIGHT-ARC
